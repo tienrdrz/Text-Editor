@@ -20,9 +20,14 @@ Open the correct webpage with the dedicated port number and begin.
 
 ## Screenshots
 
+# Browser Version
+
 ![image](https://user-images.githubusercontent.com/100370557/193423436-4e7a7e28-b432-4230-a03a-ad7c9fb08af2.png)
+
+# Installed Version
 
 ![image](https://user-images.githubusercontent.com/100370557/193423486-b62b7cc0-c430-4e37-9132-3b1c1c7676f7.png)
 
 ## Link to Deployed Application
 
+https://protected-hamlet-87500.herokuapp.com/
